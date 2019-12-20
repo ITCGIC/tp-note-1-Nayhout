@@ -6,6 +6,8 @@ public class Task2 {
 
     public static void main(String[] args) {
 
+        System.out.println("Program for converting seconds into formated H:M:S");
+
         Scanner input = new Scanner (System.in);
         int seconds;
         int minutes ;
