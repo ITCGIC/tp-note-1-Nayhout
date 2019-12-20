@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Task2 {
 
     public static void main(String[] args) {
-
+        System.out.println("");
         System.out.println("Program for converting seconds into formated H:M:S");
 
         Scanner input_seconds = new Scanner(System.in);
