@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Task3 {
     public static void main(String[] args) {
+        
         System.out.println("Program for converting time to seconds.");
 
         Scanner input_hours = new Scanner(System.in);
